@@ -6,8 +6,8 @@ import Footer from '../components/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Your Name - Portfolio',
-  description: 'Full Stack Developer Portfolio showcasing projects and skills',
+  title: "Manish Patil | Web Developer Portfolio",
+  description: "Aspiring Full Stack Web Developer skilled in React, Next.js, Tailwind CSS",
   keywords: 'web developer, react, next.js, portfolio',
 };
 
